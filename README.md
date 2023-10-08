@@ -1,2 +1,2 @@
 # cssBayan
-https://Ivantehn.github.io/cssBayan/cssBayan/index.html
+https://Ivantehn.github.io/cssBayan/index.html
